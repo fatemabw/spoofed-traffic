@@ -1,0 +1,5 @@
+[package]
+script_dir = scripts
+description = Provides a notice for spoofed/intra-vlan traffic for east-west traffic monitoring with zeek
+tags = spoofed, intra-vlan
+version = 1.0.0
