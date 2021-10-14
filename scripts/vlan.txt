@@ -1,0 +1,2 @@
+#fields	Vlan	Location	v4_network	v6_network
+2 site-1	192.168.0.0/25	1001:100:0000:000::0/120
