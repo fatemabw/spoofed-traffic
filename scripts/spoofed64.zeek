@@ -15,9 +15,7 @@ type Idx1: record {
 
 type Val1: record {
         Vlan: int;
-        behind_PA: string;
         Location: string;
-        PA_Zone: string;
         v6_network: subnet;
 };
 
@@ -27,9 +25,7 @@ type Idx2: record {
 
 type Val2: record {
         Vlan: int;
-        behind_PA: string;
         Location: string;
-        PA_Zone: string;
         v4_network: subnet;
 };
 
