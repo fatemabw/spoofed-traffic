@@ -1,1 +1,2 @@
-@load ./spoofed64.zeek
+@load ./spoofed-ew.zeek
+@load ./spoofed-ns.zeek
